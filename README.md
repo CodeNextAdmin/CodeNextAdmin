@@ -5,7 +5,8 @@
   
   
   ## Flask Teaching Projects
-  - [Toggle LED Flask](https://github.com/CodeNextAdmin/toggle_led_gpio_flask) 
+  - [Toggle LED Flask](https://github.com/CodeNextAdmin/toggle_led_gpio_flask)
+  - [Flask Slider Form](https://github.com/CodeNextAdmin/flask_slider_form)  
   
   
   ## Code Next Clubs repos
