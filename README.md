@@ -9,6 +9,8 @@
   
   ## Clubs
   - [Java Club](https://github.com/CodeNextAdmin/JavaClubExcercises)
+  - [Edge Machine Learning Club](https://github.com/CodeNextAdmin/edge_ml_club)
+  - [Python on the Pi Club](https://github.com/CodeNextAdmin/python_pi_club) 
   
   ## Workshops
   
@@ -16,7 +18,10 @@
   ## Connect
   
   
-  ## Other offerings
+  ## Raspberry Pi
+  - [Raspimon Academy](https://github.com/CodeNextAdmin/Raspimon_Academy)
+  - [Pixel Paint for SenseHat on Anvil](https://github.com/CodeNextAdmin/pixel_paint_anvil)
+  - [Python on the Pi](https://github.com/CodeNextAdmin/python_pi_club)
   
   
   
