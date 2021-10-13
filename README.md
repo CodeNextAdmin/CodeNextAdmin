@@ -21,6 +21,7 @@
   - [Raspimon Academy](https://github.com/CodeNextAdmin/Raspimon_Academy)
   - [Pixel Paint for SenseHat on Anvil](https://github.com/CodeNextAdmin/pixel_paint_anvil)
   - [Python on the Pi](https://github.com/CodeNextAdmin/python_pi_club)
+  - [Cloud Vision Example, requires PiCamera](https://github.com/CodeNextAdmin/te-cloud-vision)
   
   
   
