@@ -20,12 +20,13 @@
   ## Workshops
   
   
-  ## Raspberry Pi
+  ## Raspberry Pi, including Computer Vision, SenseHat and more
   - [Raspimon Academy](https://github.com/CodeNextAdmin/Raspimon_Academy)
   - [Pixel Paint for SenseHat on Anvil](https://github.com/CodeNextAdmin/pixel_paint_anvil)
   - [Python on the Pi](https://github.com/CodeNextAdmin/python_pi_club)
   - [Cloud Vision Example, requires PiCamera](https://github.com/CodeNextAdmin/te-cloud-vision)
   - [Anvil Data Tables Example for Logging Environmental Data from Raspberry Pi](https://github.com/CodeNextAdmin/data_tables_anvil_rpi)
+  - [OpenCV Face Recognition examples](https://github.com/CodeNextAdmin/TE-opencv-faces)
   
   
   
