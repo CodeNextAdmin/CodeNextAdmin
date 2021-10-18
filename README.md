@@ -10,6 +10,7 @@
   - [P5.js Examples](https://github.com/CodeNextAdmin/codenextoak.github.io)
   
   ## Flask Teaching Projects
+  - [Flask Chat](https://github.com/CodeNextAdmin/flask-chat)
   - [Toggle LED Flask](https://github.com/CodeNextAdmin/toggle_led_gpio_flask)
   - [Flask Slider Form](https://github.com/CodeNextAdmin/flask_slider_form) 
   - [Flask Camera Stream - A livestream example for the Rasperry Pi Cam](https://github.com/CodeNextAdmin/flask-raspicam-stream) 
@@ -31,6 +32,8 @@
   - [Cloud Vision Example, requires PiCamera](https://github.com/CodeNextAdmin/te-cloud-vision)
   - [Anvil Data Tables Example for Logging Environmental Data from Raspberry Pi](https://github.com/CodeNextAdmin/data_tables_anvil_rpi)
   - [OpenCV Face Recognition examples](https://github.com/CodeNextAdmin/TE-opencv-faces)
+  - [Raspberry Pi Motion (PIR) sensor](https://github.com/CodeNextAdmin/motion_gpio)
+  - 
   
   
   
