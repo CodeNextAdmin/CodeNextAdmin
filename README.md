@@ -11,7 +11,8 @@
   
   ## Flask Teaching Projects
   - [Toggle LED Flask](https://github.com/CodeNextAdmin/toggle_led_gpio_flask)
-  - [Flask Slider Form](https://github.com/CodeNextAdmin/flask_slider_form)  
+  - [Flask Slider Form](https://github.com/CodeNextAdmin/flask_slider_form) 
+  - [Flask Camera Stream - A livestream example for the Rasperry Pi Cam](https://github.com/CodeNextAdmin/flask-raspicam-stream) 
   
   
   ## Code Next Clubs repos
@@ -22,8 +23,9 @@
   ## Workshops
   
   
-  ## Raspberry Pi, including Computer Vision, SenseHat and more
+  ## Python: Raspberry Pi, including Computer Vision, SenseHat and more
   - [Raspimon Academy](https://github.com/CodeNextAdmin/Raspimon_Academy)
+  - [TeamEdge Picamera Examples (Streaming video, Capture, Slider) using CV2](https://github.com/CodeNextAdmin/TE-Picamera)
   - [Pixel Paint for SenseHat on Anvil](https://github.com/CodeNextAdmin/pixel_paint_anvil)
   - [Python on the Pi](https://github.com/CodeNextAdmin/python_pi_club)
   - [Cloud Vision Example, requires PiCamera](https://github.com/CodeNextAdmin/te-cloud-vision)
