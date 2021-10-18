@@ -31,6 +31,7 @@
   
   ## Code Next Clubs repos
   - [Java Club](https://github.com/CodeNextAdmin/JavaClubExcercises)
+  - [Intro to Web Dev](https://github.com/CodeNextAdmin/IntroToTheWeb)
   - [Edge Machine Learning Club](https://github.com/CodeNextAdmin/edge_ml_club)
   - [Python on the Pi Club](https://github.com/CodeNextAdmin/python_pi_club) 
   - [CSSI Labs -new ](https://github.com/CodeNextAdmin/cssi-labs)
