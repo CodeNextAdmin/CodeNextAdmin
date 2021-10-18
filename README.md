@@ -4,7 +4,8 @@
   Welcome to the Google's Code Next github page. Here you can find the code to many of our workshops, clubs and learning experiences.
   
   
-  ## JavaScript and Web
+  ## JavaScript and Web dev
+  - [Front End demos and challenges from Team Edge Term 0](https://github.com/CodeNextAdmin/TeamEdge-FrontEnd)
   - [P5.js Examples](https://github.com/CodeNextAdmin/codenextoak.github.io)
   
   ## Flask Teaching Projects
