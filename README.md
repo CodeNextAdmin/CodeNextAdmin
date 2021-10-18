@@ -5,6 +5,7 @@
   
   
   ## JavaScript and Web dev
+  - [JavaScript demos and challenges from Team Edge Term 0 - for Node.js](https://github.com/CodeNextAdmin/TeamEdgeTerm0)
   - [Front End demos and challenges from Team Edge Term 0](https://github.com/CodeNextAdmin/TeamEdge-FrontEnd)
   - [P5.js Examples](https://github.com/CodeNextAdmin/codenextoak.github.io)
   
