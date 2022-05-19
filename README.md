@@ -55,7 +55,7 @@
   - [Raspimon Academy](https://github.com/CodeNextAdmin/Raspimon_Academy)
   - [Team Edge Python Term 0](https://github.com/CodeNextAdmin/TeamEdgeTerm0Python)
   - [TeamEdge Picamera Examples (Streaming video, Capture, Slider) using CV2](https://github.com/CodeNextAdmin/TE-Picamera)
-  - [Flask-coral - using aiy-maker kit from Coral](https://github.com/CodeNextAdmin/Flask-coral_
+  - [Flask-coral - using aiy-maker kit from Coral](https://github.com/CodeNextAdmin/Flask-coral)
   - [Pixel Paint for SenseHat on Anvil](https://github.com/CodeNextAdmin/pixel_paint_anvil)
   - [Python on the Pi](https://github.com/CodeNextAdmin/python_pi_club)
   - [Cloud Vision Example, requires PiCamera](https://github.com/CodeNextAdmin/te-cloud-vision)
