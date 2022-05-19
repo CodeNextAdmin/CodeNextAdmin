@@ -26,7 +26,6 @@
   - [Flask Camera Stream - A livestream example for the Rasperry Pi Cam](https://github.com/CodeNextAdmin/flask-raspicam-stream) 
   - [Coach Wolf's Pi Playground 3](https://github.com/CodeNextAdmin/PiPlayground3)
   - [Command API demo Flask](https://github.com/CodeNextAdmin/command_api)
-  - 
   
   
   ## Code Next Clubs repos
@@ -56,6 +55,7 @@
   - [Raspimon Academy](https://github.com/CodeNextAdmin/Raspimon_Academy)
   - [Team Edge Python Term 0](https://github.com/CodeNextAdmin/TeamEdgeTerm0Python)
   - [TeamEdge Picamera Examples (Streaming video, Capture, Slider) using CV2](https://github.com/CodeNextAdmin/TE-Picamera)
+  - [Flask-coral - using aiy-maker kit from Coral](https://github.com/CodeNextAdmin/Flask-coral_
   - [Pixel Paint for SenseHat on Anvil](https://github.com/CodeNextAdmin/pixel_paint_anvil)
   - [Python on the Pi](https://github.com/CodeNextAdmin/python_pi_club)
   - [Cloud Vision Example, requires PiCamera](https://github.com/CodeNextAdmin/te-cloud-vision)
@@ -68,8 +68,7 @@
   #### Gists
   - [Servo input GPIO Zero Gist](https://gist.github.com/CodeNextAdmin/18aaf4bc3740ae3b17291bfd3be458ac)
   - [Distanc-LED GPIO Gist](https://gist.github.com/CodeNextAdmin/5ad4f2d35a150cb2dc8dc9a58ccb5902)
-  - 
-  - 
+  
   
   ## Arduino
   - [LCD Distance sensor (sonar)](https://github.com/CodeNextAdmin/LCD-Distance-Sensor)
