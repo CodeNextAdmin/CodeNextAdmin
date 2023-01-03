@@ -63,6 +63,7 @@
   - [OpenCV Face Recognition examples](https://github.com/CodeNextAdmin/TE-opencv-faces)
   - [Raspberry Pi Motion (PIR) sensor](https://github.com/CodeNextAdmin/motion_gpio)
   - [Catchem SenseHat game](https://github.com/CodeNextAdmin/catchem)
+  - [Flask with SenseHat and Rasperry Pi Inspiration](https://github.com/CodeNextAdmin/flask-inspiration)
  
   
   #### Gists
