@@ -21,6 +21,8 @@
   ## Flask Teaching Projects
   - [Flask on the Pi- basic demos using Flask on the Pi](https://github.com/CodeNextAdmin/flask_on_pi/tree/main)
   - [Flask Chat with flask-socketio](https://github.com/CodeNextAdmin/flask-chat)
+  - [Flask photobooth - teaching branch](https://github.com/CodeNextAdmin/flask-photobooth/tree/teaching)
+  - [Flask photobooth - finished branch](https://github.com/CodeNextAdmin/flask-photobooth)
   - [Toggle LED Flask](https://github.com/CodeNextAdmin/toggle_led_gpio_flask)
   - [Flask Slider Form](https://github.com/CodeNextAdmin/flask_slider_form) 
   - [Flask Camera Stream - A livestream example for the Rasperry Pi Cam](https://github.com/CodeNextAdmin/flask-raspicam-stream) 
