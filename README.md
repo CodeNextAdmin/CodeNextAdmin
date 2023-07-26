@@ -16,7 +16,6 @@
   - [Personality Quiz - Ninja Turtles v2](https://github.com/CodeNextAdmin/PersonalityQuiz-NinjaTurtlesV2)
   - [Fun with jQuery - challenges](https://github.com/CodeNextAdmin/FunWithJQuery)
   - [Bootstrap portfolio starter](https://github.com/CodeNextAdmin/bootstrap-portfolio-starter)
-  - 
   
   ## Flask Teaching Projects
   - [Flask on the Pi- basic demos using Flask on the Pi](https://github.com/CodeNextAdmin/flask_on_pi/tree/main)
@@ -32,7 +31,7 @@
   
   ## Code Next Clubs repos
   - [Java Club](https://github.com/CodeNextAdmin/JavaClubExcercises)
-  - [Intro to Web Dev](https://github.com/CodeNextAdmin/IntroToTheWeb)
+  - [Intro to Web Dev Club](https://github.com/CodeNextAdmin/intro-to-web-dev)
   - [Edge Machine Learning Club](https://github.com/CodeNextAdmin/edge_ml_club)
   - [Python on the Pi Club](https://github.com/CodeNextAdmin/python_pi_club) 
   - [CSSI Labs -new ](https://github.com/CodeNextAdmin/cssi-labs)
